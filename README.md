@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Laura (she/they)! I'm a Physics graduate interested in semiconductors, nanotechnology and science with societal applications.
+- 👋 Hi, I’m Laura (she/they)! I'm a Physics undergraduate interested in semiconductors, nanotechnology and science with societal applications.
 
 <!---
 dlfe-laura/dlfe-laura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
